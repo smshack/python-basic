@@ -127,3 +127,6 @@ def personal_info(name, age, address='비공개'):
 ...     print('나이: ', age)
 ...     print('주소: ', address)
 ```
+
+## 재귀호출 사용하기
+- 재귀 호출은 코드가 간단한 편이지만 머릿속으로 생각을 많이 해야 함
